@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(99, 98, 98);
+  }
+  
+  /* .Main{
+    display: flex;
+    justify-content: center;
+  } */
+
+  .SignUpbox{
+    height: 30rem;
+    width: 15rem;
+    border: 2px solid rgb(32, 31, 31);
+    border-radius: 3%;
+    padding: 15px 30px;
+  }
+
+  h1{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #d1caca;
+  }
+
+  .form{
+    margin-bottom: 17px;
+  }
+
+  .studentDetail{
+    font-size: 12px;
+    font-weight: 300;
+    color: #ada8a8;
+    padding-left: 2px;
+  }
+
+  .inputDetail{
+    height: 25px;
+    width: 15rem;
+    background-color: #d1caca;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+
+  .Click{
+    margin-top: 20px;
+    height: 27px;
+    width: 15rem;
+    background-color: #d02828;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 300;
+    color: antiquewhite;
+  }
+
+  p{
+    font-size: 15px;
+    margin-top: 20px;
+  }

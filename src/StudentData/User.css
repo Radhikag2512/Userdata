@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(245, 231, 234);
+  }
+
+ 
+  h2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 40px;
+  }
+
+  p{
+    font-size: 12px;
+    font-weight: 100;
+    margin-left: 40px;
+    margin-top: 3.5px;
+  }
+
+  .logButton{
+    border: none;
+    height: 22px;
+    width: 45px;
+    background-color: rgb(208, 114, 114);
+    color: #fff;
+    font-size: 10px;
+    border-radius: 6px;
+  }
+
+
+  .UserInfo{
+    width: 60rem;
+    height: 25rem;
+    border: none;
+    background-color: rgb(155, 247, 216);
+  }
